@@ -8,7 +8,6 @@ I'm Natalie🥀. I'm powerful group management bot🚶 project in telegram🎋.
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
     <img src="https://img.shields.io/github/license/https://github.com/Team-Natalie/Natalie?style=for-the-badge" 
-    <img src="https://img.shields.io/github/repo-size/Team-Natalie/Natalie?style=for-the-badge" alt="Repository Size"> <br>
     <img src="https://img.shields.io/github/forks/Team-Natalie/Natalie?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/stars/Team-Natalie/Natalie?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/watchers/Team-Natalie/Natalie?style=for-the-badge" alt="Watchers">
