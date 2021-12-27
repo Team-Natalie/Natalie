@@ -16,6 +16,4 @@ I'm Natalie🥀. I'm powerful group management bot🚶 project in telegram🎋.
 
 ### Deployment
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://github.com/Kasun-bandara1/Natalie.git)
-
-### Devs 
-<a href="https://t.me/Santa_r1"><img src="https://img.shields.io/badge/owner%20kasun(🥀සැන්ටා🥀)-blue.svg?style=for-the-badge&logo=Telegram"></a> 
+ 
