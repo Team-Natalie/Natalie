@@ -3,7 +3,7 @@ I'm Natalie🥀. I'm powerful group management bot🚶 project in telegram🎋.
 
 # about
 <p align="center"><a href="https://t.me/Santa_r1"><img src="https://te.legra.ph/file/a47c8fb73bae92aeee418.jpg"></a></p> <p align="center">
-<p align="center">
+<p align="center"> 
 
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br> 
@@ -18,5 +18,3 @@ I'm Natalie🥀. I'm powerful group management bot🚶 project in telegram🎋.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/https://github.com/Kasun-bandara1/Natalie.git)
  
 
-### Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=https://github.com/Team-Natalie/Natalie)
