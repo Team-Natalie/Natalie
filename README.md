@@ -1,7 +1,7 @@
 # Natalie
 I'm Natalie🥀. I'm powerful group management bot🚶 project in telegram🎋.
 
-# about
+### about Natalie
 <p align="center"><a href="https://t.me/Santa_r1"><img src="https://te.legra.ph/file/a47c8fb73bae92aeee418.jpg"></a></p> <p align="center">
 <p align="center"> 
 
